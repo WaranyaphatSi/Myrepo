@@ -1,15 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Software Engineering</title>
-<meta charset="utf-8">
+<title>superscripted text</title>
 </head>
 <body>
-<h1 align="center">Burapha University</h1>
-<hr>
-<p align="center">
-Faculty of Informatics
-<br>
-Training Camp
-</p>
+This is
+<sup> superscripted </sup> text
 </body>
+</html>
