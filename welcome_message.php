@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>superscripted text</title>
+<title>font face</title>
 </head>
 <body>
-This is
-<sup> superscripted </sup> text
+This is normal font <br>
+<font face="Tahoma">
+This is Tahoma font
+</font>
 </body>
 </html>
